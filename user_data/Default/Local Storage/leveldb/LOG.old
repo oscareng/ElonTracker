@@ -1,0 +1,5 @@
+2022/11/13-01:23:49.439 5103 Reusing MANIFEST /Users/oscarrolf/Code/Twitter/user_data/Default/Local Storage/leveldb/MANIFEST-000001
+2022/11/13-01:23:49.440 5103 Recovering log #16
+2022/11/13-01:23:49.441 5103 Level-0 table #20: started
+2022/11/13-01:23:49.455 5103 Level-0 table #20: 61289 bytes OK
+2022/11/13-01:23:49.483 5103 Delete type=0 #16
